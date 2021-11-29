@@ -3,7 +3,7 @@ mini-projeto matéria de Engenharia de Software do curso de Gestão da Tecnologi
 
 <br>
 
-# ❗ Leia com atenção o arquivo Metrovac.doc
+# ❗ Leia com atenção o arquivo Metrovac.pdf
 
 <br>
 
